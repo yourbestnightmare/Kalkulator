@@ -1,0 +1,2 @@
+# Kalkulator
+dodje wie liczby

@@ -1,2 +1,2 @@
 # Kalkulator
-dodje wie liczby
+dodaje wie liczby
